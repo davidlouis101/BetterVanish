@@ -2,14 +2,14 @@
 
 #Command Settings:
 
-Command: "vanish"
-Description: "Vanish Command"
-Usage: "/vanish"
+Command: "v"
+Description: "§4§lVanishSystem"
+Usage: "/v"
 Aliase: ["v", "van"]
 Permission: "vanish.use"
 
 #Messages
 
-vanish.on: "You are now Invisible"
-vanish.off:  "You are now Visible"
+vanish.on: "§3[Paincraft]§6 Du Bist Nun Im §cVanish"
+vanish.off:  "§3[Paincraft]§6 Du Bist nicht Mehr Im §cVanish"
 
